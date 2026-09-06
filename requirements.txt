@@ -1,0 +1,12 @@
+langgraph
+langchain
+langchain-openai
+sqlalchemy
+pandas
+pydantic
+fastapi
+uvicorn
+python-dotenv
+pyodbc
+openai
+streamlit
